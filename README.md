@@ -8,4 +8,4 @@ process_doc::read_docx() 兼容doc文件，详细信息见文件内。
 Demo中存放Bert的所有相关代码
 在Demo.Demo.py中调用Bert模型
 
-##一、关于各文件的作用的解释
+##关于各文件的作用的解释
