@@ -31,5 +31,3 @@ def papers_check(filepath):
                 continue
             n += 1
     list2txt(sentences, "C:\\Users\\songwannian\\Desktop\\5.txt")  # 将列表存储为.txt文件
-
-
